@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(59, 161, 161);
+}
+label{
+    display: flex;
+    justify-content: center;
+}
+
+form{
+    border: 10px solid rgb(0, 255, 128);
+    padding: 10px;
+    margin: 0% auto;
+    display: flex;
+    flex-flow: column;
+    width: 200px;
+}
+
+body{
+    font-weight: bolder;
+    color: rgb(0, 0, 0);
+    font-family: arial;
+   min-width: 355px;
+    max-height: 837px;
+    background-image: url(eee.jpg);
+}
+.caixa{
+    display: flex;
+    margin: 100px auto;
+    right:100% auto;
+   
+}
+
+form{
+    min-width: 301px;
+    border: 3px solid rgb(34, 34, 59);
+    padding: 10px;
+    margin: 0% auto;
+    display: flex;
+    flex-flow: column;
+    width: 23%;
+    background-color: rgba(78, 72, 72, 0.466);
+}
+
+.campo{
+    border: 2px solid;
+    min-width: none 355px;
+}
+
+.titulo{
+    font-family: arial;
+    text-align: center;
+    color: rgb(19, 18, 18)
+}
